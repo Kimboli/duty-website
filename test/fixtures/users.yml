@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: 2017-10-21 15:13:30
+  u_hold: one
+  is_grab: 
+
+two:
+  time: 2017-10-21 15:13:30
+  u_hold: two
+  is_grab: 

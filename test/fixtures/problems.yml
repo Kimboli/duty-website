@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  PC: 1
+  time: 2017-10-21 14:54:21
+  is_fixed: false
+
+two:
+  PC: 1
+  time: 2017-10-21 14:54:21
+  is_fixed: false
